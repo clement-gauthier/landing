@@ -79,12 +79,15 @@ p {
 
 .card-white h3 {
   margin-bottom: 0;
-}
-}
+
 }
 
 .footer {
   background: #404042;
   text-align: center;
   padding: 24px 0;
+}
+
+.footer p {
+  color: white;
 }
